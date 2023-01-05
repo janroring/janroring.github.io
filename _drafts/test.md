@@ -5,5 +5,4 @@ categories:
 - hackthebox
 - writeups
 tags: htb, hacking
-date: 2023-01-05 12:26 +0100
 ---
